@@ -1,0 +1,7 @@
+C:\Users\sreerag.babu\source\repos\EnnumPOC\obj\Debug\EnnumPOC.csproj.AssemblyReference.cache
+C:\Users\sreerag.babu\source\repos\EnnumPOC\obj\Debug\EnnumPOC.csproj.CoreCompileInputs.cache
+C:\Users\sreerag.babu\source\repos\EnnumPOC\bin\Debug\EnnumPOC.exe.config
+C:\Users\sreerag.babu\source\repos\EnnumPOC\bin\Debug\EnnumPOC.exe
+C:\Users\sreerag.babu\source\repos\EnnumPOC\bin\Debug\EnnumPOC.pdb
+C:\Users\sreerag.babu\source\repos\EnnumPOC\obj\Debug\EnnumPOC.exe
+C:\Users\sreerag.babu\source\repos\EnnumPOC\obj\Debug\EnnumPOC.pdb
